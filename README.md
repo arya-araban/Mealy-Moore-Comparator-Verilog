@@ -7,6 +7,6 @@ How it works works: at each cycle we take in two seperate singular bits a and b,
 
 this process continues until reset is active, which signals that a new group of bits are incoming. 
 
-The Mealy FSM looks like the following (note that for example 10 means a=1 and b=0): 
+The Moore FSM looks like the following (note that for example 10 means a=1 and b=0): 
 
 ![Mealy FSM](https://user-images.githubusercontent.com/54000044/144197742-160b17b5-878e-4d37-b8ee-a201a09c3d0a.jpg)
